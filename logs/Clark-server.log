@@ -1,0 +1,326 @@
+[ 05-28-2022 16:24:24 ] Clark: Server is starting...
+[ 05-28-2022 16:24:28 ] Clark: Request received - AT Bernard +32315440.651426315 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:24:28 ] Clark: Initialize new client's location
+[ 05-28-2022 16:24:28 ] Clark: Connected to Jaquez
+[ 05-28-2022 16:24:28 ] Clark: Updating kiwi.cs.ucla.edu's location to server Jaquez
+[ 05-28-2022 16:24:28 ] Clark: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32315440.651426315', 'Bernard']}
+[ 05-28-2022 16:24:28 ] Clark: Connection Dropped with Jaquez
+[ 05-28-2022 16:24:28 ] Clark: Request received - AT Bernard +32315440.651426315 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:24:28 ] Clark: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 16:24:28 ] Clark: Connected to Juzang
+[ 05-28-2022 16:24:28 ] Clark: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 16:24:28 ] Clark: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32315440.651426315', 'Bernard']}
+[ 05-28-2022 16:24:28 ] Clark: Connection Dropped with Juzang
+[ 05-28-2022 16:26:35 ] Clark: Request received - AT Clark +0.263873386 kiwi.cs.ucla.edu +34.068930-118.445127 973498694314.984
+[ 05-28-2022 16:26:35 ] Clark: Updating existing client's location
+[ 05-28-2022 16:26:35 ] Clark: Connected to Jaquez
+[ 05-28-2022 16:26:35 ] Clark: Updating kiwi.cs.ucla.edu's location to server Jaquez
+[ 05-28-2022 16:26:35 ] Clark: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 973498694314.984, '+0.263873386', 'Clark']}
+[ 05-28-2022 16:26:35 ] Clark: Connection Dropped with Jaquez
+[ 05-28-2022 16:26:35 ] Clark: Request received - AT Clark +0.263873386 kiwi.cs.ucla.edu +34.068930-118.445127 973498694314.984
+[ 05-28-2022 16:26:35 ] Clark: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 16:26:35 ] Clark: Connected to Juzang
+[ 05-28-2022 16:26:35 ] Clark: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 16:26:35 ] Clark: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 973498694314.984, '+0.263873386', 'Clark']}
+[ 05-28-2022 16:26:35 ] Clark: Connection Dropped with Juzang
+[ 05-28-2022 16:30:17 ] Clark: Request received - IAMAT dylan +33.7913666-118.1346701 1653780611
+[ 05-28-2022 16:30:17 ] Clark: Response sent - AT Clark +6.526598215103149 dylan +33.7913666-118.1346701 1653780611
+[ 05-28-2022 16:30:17 ] Clark: Connected to Jaquez
+[ 05-28-2022 16:30:17 ] Clark: Updating dylan's location to server Jaquez
+[ 05-28-2022 16:30:17 ] Clark: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 973498694314.984, '+0.263873386', 'Clark'], 'dylan': ['+33.7913666-118.1346701', '1653780611', '+6.526598215103149', 'Clark']}
+[ 05-28-2022 16:30:17 ] Clark: Connection Dropped with Jaquez
+[ 05-28-2022 16:30:17 ] Clark: Connected to Juzang
+[ 05-28-2022 16:30:17 ] Clark: Updating dylan's location to server Juzang
+[ 05-28-2022 16:30:17 ] Clark: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 973498694314.984, '+0.263873386', 'Clark'], 'dylan': ['+33.7913666-118.1346701', '1653780611', '+6.526598215103149', 'Clark']}
+[ 05-28-2022 16:30:17 ] Clark: Connection Dropped with Juzang
+[ 05-28-2022 16:30:17 ] Clark: Request received - AT Clark +6.526598215103149 dylan +33.7913666-118.1346701 1653780611
+[ 05-28-2022 16:30:17 ] Clark: dylan's location is up-to-date
+[ 05-28-2022 16:30:17 ] Clark: Request received - AT Clark +6.526598215103149 dylan +33.7913666-118.1346701 1653780611
+[ 05-28-2022 16:30:17 ] Clark: dylan's location is up-to-date
+[ 05-28-2022 16:31:28 ] Clark: Request received - WHATSAT dylan 2 2
+[ 05-28-2022 16:31:28 ] Clark: Querying Google Places For Nearby Locations
+[ 05-28-2022 16:31:28 ] Clark: Response sent - AT Clark +6.526598215103149 dylan +33.7913666-118.1346701 1653780611
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEDaAEgs018yEdkHgdlsxBTKpFv8BcqtiadqrL4Kkrb9rVBMEbMnXqIZb7-ZJo-49oAb3bo8pJD1CtbTPqEr0q5LL1E86Z0_O2cSFIHwB1NqQHLA5loD9Ga_w5cvgg6MbTxRz_6oDSbDw-Fyd2ooCuQ8k8XrYHCiFQU1vEL3ZCmQdVrU2xcDin92H_A--06MgINRVKZAKWM3FZ2xVaOFNvYD6kfYSnRbAboRtnLEd47KGqTgBLo_aNXXHsAdZcp1HMs7q41KAGowK3EtWaJ9La_iqoV9z0bGlYkJp9hmlgUubzXAUoFrHaTuFwOhQu6z9aZ1KrlhqLsVTKzY5j2BAV8g6xM7h9gd56t7193nb4QppEJ9dIyNpOGovzclLhynZ3J0wkEwl4Or6GQezpQSbWXENMwDAvM0b3SDliRmdE5W",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 33.7700504,
+                    "lng": -118.1937395
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.88545905340229,
+                        "lng": -118.0632530381559
+                    },
+                    "southwest": {
+                        "lat": 33.71495697977352,
+                        "lng": -118.2489659765446
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Long Beach",
+            "photos": [
+                {
+                    "height": 5312,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113333294777177514698\">Max Powers</a>"
+                    ],
+                    "photo_reference": "Aap_uEB_M4KkhfUU7hNejyc55NmQkSv0tTJyLENIQ_XCGoaXoHgCghcNZskgQUgQD5oE33qbRjfesXgVhyjTWEg9AR-9hOtPsU_CtmV9FN9JJEMjOfjcMtLNyovTNJL_ND8bXwtmRlt5EWIxjQsX1L4gL70jxzFHFlE_pqBrDxUm09F174Hc",
+                    "width": 2988
+                }
+            ],
+            "place_id": "ChIJWdeZQOjKwoARqo8qxPo6AKE",
+            "reference": "ChIJWdeZQOjKwoARqo8qxPo6AKE",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Long Beach"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.7818958,
+                    "lng": -118.130372
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.78297338029149,
+                        "lng": -118.1295193197085
+                    },
+                    "southwest": {
+                        "lat": 33.7802754197085,
+                        "lng": -118.1322172802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Current Long Beach",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3468,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103523655094853619590\">SHANNON FITZPATRICK</a>"
+                    ],
+                    "photo_reference": "Aap_uEDeM-wOUkW-rnyvAyj5BREdtLernLmYD1sh-rmrSWt_SdtcdxTbD6ytz0eHNOJBlYzyaX4kx-zo9Gisr_9KXV7VTZ70cdiDPaRYOUsrSmClkgPik-mNOzNwz7mlszt9dE88XCSh1PeQW-69g4F7UheXdTxlS3_PbVC7rqesustDdEWT",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJodLCmsYx3YAROPzWsXMDjbk",
+            "plus_code": {
+                "compound_code": "QVJ9+QV Long Beach, CA, USA",
+                "global_code": "8553QVJ9+QV"
+            },
+            "rating": 4.3,
+            "reference": "ChIJodLCmsYx3YAROPzWsXMDjbk",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 756,
+            "vicinity": "5325 California 1, Long Beach"
+        }
+    ],
+    "status": "OK"
+}
+[ 05-28-2022 16:46:34 ] Clark: Server is starting...
+[ 05-28-2022 16:47:50 ] Clark: Server is starting...
+[ 05-28-2022 16:47:54 ] Clark: Request received - AT Bernard +32316846.825517893 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:47:54 ] Clark: Initialize new client's location
+[ 05-28-2022 16:47:54 ] Clark: Connected to Jaquez
+[ 05-28-2022 16:47:54 ] Clark: Updating kiwi.cs.ucla.edu's location to server Jaquez
+[ 05-28-2022 16:47:54 ] Clark: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32316846.825517893', 'Bernard']}
+[ 05-28-2022 16:47:54 ] Clark: Connection Dropped with Jaquez
+[ 05-28-2022 16:47:54 ] Clark: Connected to Juzang
+[ 05-28-2022 16:47:54 ] Clark: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 16:47:54 ] Clark: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32316846.825517893', 'Bernard']}
+[ 05-28-2022 16:47:54 ] Clark: Connection Dropped with Juzang
+[ 05-28-2022 16:47:54 ] Clark: Request received - AT Bernard +32316846.825517893 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:47:54 ] Clark: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 16:49:19 ] Clark: Request received - AT Clark +0.263873386 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:49:19 ] Clark: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 16:50:01 ] Clark: Request received - WHATSAT kiwi.cs.ucla.edu 10 5
+[ 05-28-2022 16:50:01 ] Clark: Querying Google Places For Nearby Locations
+[ 05-28-2022 16:50:01 ] Clark: Response sent - AT Bernard +32316846.825517893 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.9594984
+{
+    "error_message": "The provided API key is invalid.",
+    "html_attributions": [],
+    "results": [],
+    "status": "REQUEST_DENIED"
+}
+[ 05-28-2022 16:52:00 ] Clark: Request received - hgfsa
+[ 05-28-2022 16:52:00 ] Clark: Error: "hgfsa" is an invalid command
+[ 05-28-2022 16:52:44 ] Clark: Server is starting...
+[ 05-28-2022 16:52:48 ] Clark: Request received - dgadsf
+[ 05-28-2022 16:52:48 ] Clark: Error: "dgadsf" is an invalid command
+[ 05-28-2022 16:54:18 ] Clark: Request received - IAMAT kiwi.cs.ucla.edu +34.068930-190.445127 1621464827.959498503
+[ 05-28-2022 16:54:18 ] Clark: Error: IAMAT - Latitude(-90 to +90) and Longitude(-180 to +180) out of range.
+[ 05-28-2022 16:55:39 ] Clark: Request received - IAMAT kiwi.cs.ucla.edu +34.068930-190.445127 1621464827.959498503
+[ 05-28-2022 16:55:39 ] Clark: Error: IAMAT - Latitude(-90 to +90) and Longitude(-180 to +180) out of range.
+[ 05-28-2022 16:56:41 ] Clark: Server is starting...
+[ 05-28-2022 16:57:04 ] Clark: Request received - IAMAT kiwi.cs.ucla.edu +34.068930-190.445127 1621464827.959498503
+[ 05-28-2022 16:57:04 ] Clark: Error: IAMAT - Latitude(-90 to +90) and Longitude(-180 to +180) out of range.
+[ 05-28-2022 16:59:27 ] Clark: Request received - WHATSAT Dylan 10 5
+[ 05-28-2022 16:59:27 ] Clark: Error: WHATSAT - Client did not announce his or her location.
+[ 05-28-2022 17:00:35 ] Clark: Request received - WHATSAT Dylan 10 30
+[ 05-28-2022 17:00:35 ] Clark: Error: WHATSAT - Client did not announce his or her location.
+[ 05-28-2022 17:00:57 ] Clark: Request received - WHATSAT kiwi.cs.ucla.edu 10 30
+[ 05-28-2022 17:00:57 ] Clark: Error: WHATSAT - Client did not announce his or her location.
+[ 05-28-2022 17:01:21 ] Clark: Request received - IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:01:21 ] Clark: Response sent - AT Clark +32317653.74943304 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:01:21 ] Clark: Connected to Jaquez
+[ 05-28-2022 17:01:21 ] Clark: Updating kiwi.cs.ucla.edu's location to server Jaquez
+[ 05-28-2022 17:01:21 ] Clark: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32317653.74943304', 'Clark']}
+[ 05-28-2022 17:01:21 ] Clark: Connection Dropped with Jaquez
+[ 05-28-2022 17:01:21 ] Clark: Connected to Juzang
+[ 05-28-2022 17:01:21 ] Clark: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 17:01:21 ] Clark: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32317653.74943304', 'Clark']}
+[ 05-28-2022 17:01:21 ] Clark: Connection Dropped with Juzang
+[ 05-28-2022 17:01:21 ] Clark: Request received - AT Clark +32317653.74943304 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:01:21 ] Clark: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 17:01:21 ] Clark: Request received - AT Clark +32317653.74943304 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:01:21 ] Clark: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 17:01:31 ] Clark: Request received - WHATSAT kiwi.cs.ucla.edu 10 30
+[ 05-28-2022 17:01:31 ] Clark: Querying Google Places For Nearby Locations
+[ 05-28-2022 17:01:31 ] Clark: Response sent - AT Clark +32317653.74943304 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+{
+    "error_message": "The provided API key is invalid.",
+    "html_attributions": [],
+    "results": [],
+    "status": "REQUEST_DENIED"
+}
+[ 05-28-2022 17:02:31 ] Clark: Server is starting...
+[ 05-28-2022 17:02:38 ] Clark: Request received - IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:02:38 ] Clark: Response sent - AT Clark +32317730.609581947 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:02:38 ] Clark: Connected to Jaquez
+[ 05-28-2022 17:02:38 ] Clark: Updating kiwi.cs.ucla.edu's location to server Jaquez
+[ 05-28-2022 17:02:38 ] Clark: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32317730.609581947', 'Clark']}
+[ 05-28-2022 17:02:38 ] Clark: Connection Dropped with Jaquez
+[ 05-28-2022 17:02:38 ] Clark: Connected to Juzang
+[ 05-28-2022 17:02:38 ] Clark: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 17:02:38 ] Clark: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32317730.609581947', 'Clark']}
+[ 05-28-2022 17:02:38 ] Clark: Connection Dropped with Juzang
+[ 05-28-2022 17:02:38 ] Clark: Request received - AT Clark +32317730.609581947 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:02:38 ] Clark: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 17:02:38 ] Clark: Request received - AT Clark +32317730.609581947 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:02:38 ] Clark: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 17:02:44 ] Clark: Request received - WHATSAT kiwi.cs.ucla.edu 10 30
+[ 05-28-2022 17:02:44 ] Clark: Querying Google Places For Nearby Locations
+[ 05-28-2022 17:02:44 ] Clark: Response sent - AT Clark +32317730.609581947 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+{
+    "error_message": "The provided API key is invalid.",
+    "html_attributions": [],
+    "results": [],
+    "status": "REQUEST_DENIED"
+}
+[ 05-28-2022 17:05:45 ] Clark: Server is starting...
+[ 05-28-2022 17:05:49 ] Clark: Server is starting...
+[ 05-28-2022 17:05:56 ] Clark: Request received - IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:05:56 ] Clark: Response sent - AT Clark +32317928.293234825 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:05:56 ] Clark: Connected to Jaquez
+[ 05-28-2022 17:05:56 ] Clark: Updating kiwi.cs.ucla.edu's location to server Jaquez
+[ 05-28-2022 17:05:56 ] Clark: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32317928.293234825', 'Clark']}
+[ 05-28-2022 17:05:56 ] Clark: Connection Dropped with Jaquez
+[ 05-28-2022 17:05:56 ] Clark: Connected to Juzang
+[ 05-28-2022 17:05:56 ] Clark: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 17:05:56 ] Clark: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32317928.293234825', 'Clark']}
+[ 05-28-2022 17:05:56 ] Clark: Connection Dropped with Juzang
+[ 05-28-2022 17:05:56 ] Clark: Request received - AT Clark +32317928.293234825 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:05:56 ] Clark: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 17:05:56 ] Clark: Request received - AT Clark +32317928.293234825 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:05:56 ] Clark: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 17:06:01 ] Clark: Request received - WHATSAT kiwi.cs.ucla.edu 10 30
+[ 05-28-2022 17:06:01 ] Clark: Error: WHATSAT - Upper Bound provided is out of range. 
+[ 05-28-2022 17:09:12 ] Clark: Server is starting...
+[ 05-28-2022 17:09:18 ] Clark: Request received - IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:09:18 ] Clark: Response sent - AT Clark +32318130.182563066 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:09:18 ] Clark: Connected to Jaquez
+[ 05-28-2022 17:09:18 ] Clark: Updating kiwi.cs.ucla.edu's location to server Jaquez
+[ 05-28-2022 17:09:18 ] Clark: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32318130.182563066', 'Clark']}
+[ 05-28-2022 17:09:18 ] Clark: Connection Dropped with Jaquez
+[ 05-28-2022 17:09:18 ] Clark: Connected to Juzang
+[ 05-28-2022 17:09:18 ] Clark: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 17:09:18 ] Clark: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32318130.182563066', 'Clark']}
+[ 05-28-2022 17:09:18 ] Clark: Connection Dropped with Juzang
+[ 05-28-2022 17:09:18 ] Clark: Request received - AT Clark +32318130.182563066 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:09:18 ] Clark: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 17:09:18 ] Clark: Request received - AT Clark +32318130.182563066 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:09:18 ] Clark: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 17:10:08 ] Clark: Request received - WHATSAT kiwi.cs.ucla.edu 50 5
+[ 05-28-2022 17:10:08 ] Clark: Querying Google Places For Nearby Locations
+[ 05-28-2022 17:10:08 ] Clark: Response sent - AT Clark +32318130.182563066 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+{
+    "error_message": "The provided API key is invalid.",
+    "html_attributions": [],
+    "results": [],
+    "status": "REQUEST_DENIED"
+}
+[ 05-28-2022 17:10:26 ] Clark: Request received - WHATSAT kiwi.cs.ucla.edu 60 5
+[ 05-28-2022 17:10:26 ] Clark: Error: WHATSAT - Radius provided is out of range.
+[ 05-28-2022 17:10:47 ] Clark: Request received - WHATSAT Dylan 10 5
+[ 05-28-2022 17:10:47 ] Clark: Error: WHATSAT - Client's location is unknown.
+[ 05-28-2022 17:13:30 ] Clark: Server is starting...
+[ 05-28-2022 17:13:34 ] Clark: Server is starting...
+[ 05-28-2022 17:13:43 ] Clark: Request received - WHATSAT Dylan 10 5
+[ 05-28-2022 17:13:43 ] Clark: Error: WHATSAT - Dylan's location is unknown.
+[ 05-29-2022 17:59:50 ] Clark: Server is starting...
+[ 05-29-2022 18:00:53 ] Clark: Server is starting...
+[ 05-29-2022 18:01:16 ] Clark: Request received - AT Bernard +32407648.073361874 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-29-2022 18:01:16 ] Clark: Initialize new client's location
+[ 05-29-2022 18:01:16 ] Clark: Connected to Jaquez
+[ 05-29-2022 18:01:16 ] Clark: Updating kiwi.cs.ucla.edu's location to server Jaquez
+[ 05-29-2022 18:01:16 ] Clark: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32407648.073361874', 'Bernard']}
+[ 05-29-2022 18:01:16 ] Clark: Connection Dropped with Jaquez
+[ 05-29-2022 18:01:16 ] Clark: Connected to Juzang
+[ 05-29-2022 18:01:16 ] Clark: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-29-2022 18:01:16 ] Clark: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32407648.073361874', 'Bernard']}
+[ 05-29-2022 18:01:16 ] Clark: Connection Dropped with Juzang
+[ 05-29-2022 18:01:16 ] Clark: Request received - AT Bernard +32407648.073361874 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-29-2022 18:01:16 ] Clark: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-29-2022 18:02:26 ] Clark: Request received - WHATSAT kiwi.cs.ucla.edu 10 5
+[ 05-29-2022 18:02:26 ] Clark: Querying Google Places For Nearby Locations
+[ 05-29-2022 18:02:26 ] Clark: Response sent - AT Bernard +32407648.073361874 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.9594984
+{
+    "error_message": "The provided API key is invalid.",
+    "html_attributions": [],
+    "results": [],
+    "status": "REQUEST_DENIED"
+}
+[ 05-29-2022 18:10:13 ] Clark: Server is starting...
+[ 05-29-2022 18:10:22 ] Clark: Server is starting...
+[ 05-29-2022 18:10:29 ] Clark: Request received - AT Bernard +32408201.550885677 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-29-2022 18:10:29 ] Clark: Initialize new client's location
+[ 05-29-2022 18:10:29 ] Clark: Connected to Jaquez
+[ 05-29-2022 18:10:29 ] Clark: Updating kiwi.cs.ucla.edu's location to server Jaquez
+[ 05-29-2022 18:10:29 ] Clark: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32408201.550885677', 'Bernard']}
+[ 05-29-2022 18:10:29 ] Clark: Connection Dropped with Jaquez
+[ 05-29-2022 18:10:29 ] Clark: Connected to Juzang
+[ 05-29-2022 18:10:29 ] Clark: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-29-2022 18:10:29 ] Clark: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32408201.550885677', 'Bernard']}
+[ 05-29-2022 18:10:29 ] Clark: Connection Dropped with Juzang
+[ 05-29-2022 18:10:29 ] Clark: Request received - AT Bernard +32408201.550885677 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-29-2022 18:10:29 ] Clark: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-29-2022 18:10:36 ] Clark: Request received - WHATSAT kiwi.cs.ucla.edu 10 5
+[ 05-29-2022 18:10:36 ] Clark: Querying Google Places For Nearby Locations
+[ 05-29-2022 18:10:36 ] Clark: Response sent - AT Bernard +32408201.550885677 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.9594984
+{
+    "error_message": "The provided API key is invalid.",
+    "html_attributions": [],
+    "results": [],
+    "status": "REQUEST_DENIED"
+}

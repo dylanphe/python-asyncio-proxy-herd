@@ -1,0 +1,137 @@
+[ 05-28-2022 16:24:24 ] Johnson: Server is starting...
+[ 05-28-2022 16:24:28 ] Johnson: Request received - AT Bernard +32315440.651426315 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:24:28 ] Johnson: Initialize new client's location
+[ 05-28-2022 16:24:28 ] Johnson: Connected to Bernard
+[ 05-28-2022 16:24:28 ] Johnson: Updating kiwi.cs.ucla.edu's location to server Bernard
+[ 05-28-2022 16:24:28 ] Johnson: Bernard - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32315440.651426315', 'Bernard']}
+[ 05-28-2022 16:24:28 ] Johnson: Connection Dropped with Bernard
+[ 05-28-2022 16:24:28 ] Johnson: Connected to Juzang
+[ 05-28-2022 16:24:28 ] Johnson: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 16:24:28 ] Johnson: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32315440.651426315', 'Bernard']}
+[ 05-28-2022 16:24:28 ] Johnson: Connection Dropped with Juzang
+[ 05-28-2022 16:24:28 ] Johnson: Request received - AT Bernard +32315440.651426315 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:24:28 ] Johnson: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 16:26:35 ] Johnson: Request received - AT Clark +0.263873386 kiwi.cs.ucla.edu +34.068930-118.445127 973498694314.984
+[ 05-28-2022 16:26:35 ] Johnson: Updating existing client's location
+[ 05-28-2022 16:26:35 ] Johnson: Connected to Bernard
+[ 05-28-2022 16:26:35 ] Johnson: Updating kiwi.cs.ucla.edu's location to server Bernard
+[ 05-28-2022 16:26:35 ] Johnson: Bernard - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 973498694314.984, '+0.263873386', 'Clark']}
+[ 05-28-2022 16:26:35 ] Johnson: Connection Dropped with Bernard
+[ 05-28-2022 16:26:35 ] Johnson: Connected to Juzang
+[ 05-28-2022 16:26:35 ] Johnson: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 16:26:35 ] Johnson: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 973498694314.984, '+0.263873386', 'Clark']}
+[ 05-28-2022 16:26:35 ] Johnson: Connection Dropped with Juzang
+[ 05-28-2022 16:26:35 ] Johnson: Request received - AT Clark +0.263873386 kiwi.cs.ucla.edu +34.068930-118.445127 973498694314.984
+[ 05-28-2022 16:26:35 ] Johnson: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 16:27:23 ] Johnson: Server is shutting down...
+[ 05-28-2022 16:46:34 ] Johnson: Server is starting...
+[ 05-28-2022 16:46:48 ] Johnson: Request received - AT Bernard +32316780.688699007 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:47:41 ] Johnson: Server is shutting down...
+[ 05-28-2022 16:47:50 ] Johnson: Server is starting...
+[ 05-28-2022 16:47:54 ] Johnson: Request received - AT Bernard +32316846.825517893 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:47:54 ] Johnson: Initialize new client's location
+[ 05-28-2022 16:47:54 ] Johnson: Connected to Bernard
+[ 05-28-2022 16:47:54 ] Johnson: Updating kiwi.cs.ucla.edu's location to server Bernard
+[ 05-28-2022 16:47:54 ] Johnson: Bernard - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32316846.825517893', 'Bernard']}
+[ 05-28-2022 16:47:54 ] Johnson: Connection Dropped with Bernard
+[ 05-28-2022 16:47:54 ] Johnson: Connected to Juzang
+[ 05-28-2022 16:47:54 ] Johnson: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 16:47:54 ] Johnson: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32316846.825517893', 'Bernard']}
+[ 05-28-2022 16:47:54 ] Johnson: Connection Dropped with Juzang
+[ 05-28-2022 16:47:54 ] Johnson: Request received - AT Bernard +32316846.825517893 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:47:54 ] Johnson: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 16:52:41 ] Johnson: Server is shutting down...
+[ 05-28-2022 16:52:44 ] Johnson: Server is starting...
+[ 05-28-2022 16:55:10 ] Johnson: Server is shutting down...
+[ 05-28-2022 16:56:41 ] Johnson: Server is starting...
+[ 05-28-2022 17:01:21 ] Johnson: Request received - AT Clark +32317653.74943304 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:01:21 ] Johnson: Initialize new client's location
+[ 05-28-2022 17:01:21 ] Johnson: Connected to Bernard
+[ 05-28-2022 17:01:21 ] Johnson: Updating kiwi.cs.ucla.edu's location to server Bernard
+[ 05-28-2022 17:01:21 ] Johnson: Bernard - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32317653.74943304', 'Clark']}
+[ 05-28-2022 17:01:21 ] Johnson: Connection Dropped with Bernard
+[ 05-28-2022 17:01:21 ] Johnson: Request received - AT Clark +32317653.74943304 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:01:21 ] Johnson: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 17:01:21 ] Johnson: Connected to Juzang
+[ 05-28-2022 17:01:21 ] Johnson: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 17:01:21 ] Johnson: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32317653.74943304', 'Clark']}
+[ 05-28-2022 17:01:21 ] Johnson: Connection Dropped with Juzang
+[ 05-28-2022 17:02:27 ] Johnson: Server is shutting down...
+[ 05-28-2022 17:02:31 ] Johnson: Server is starting...
+[ 05-28-2022 17:02:38 ] Johnson: Request received - AT Clark +32317730.609581947 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:02:38 ] Johnson: Initialize new client's location
+[ 05-28-2022 17:02:38 ] Johnson: Connected to Bernard
+[ 05-28-2022 17:02:38 ] Johnson: Updating kiwi.cs.ucla.edu's location to server Bernard
+[ 05-28-2022 17:02:38 ] Johnson: Bernard - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32317730.609581947', 'Clark']}
+[ 05-28-2022 17:02:38 ] Johnson: Connection Dropped with Bernard
+[ 05-28-2022 17:02:38 ] Johnson: Request received - AT Clark +32317730.609581947 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:02:38 ] Johnson: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 17:02:38 ] Johnson: Connected to Juzang
+[ 05-28-2022 17:02:38 ] Johnson: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 17:02:38 ] Johnson: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32317730.609581947', 'Clark']}
+[ 05-28-2022 17:02:38 ] Johnson: Connection Dropped with Juzang
+[ 05-28-2022 17:05:44 ] Johnson: Server is shutting down...
+[ 05-28-2022 17:05:45 ] Johnson: Server is starting...
+[ 05-28-2022 17:05:46 ] Johnson: Server is shutting down...
+[ 05-28-2022 17:05:49 ] Johnson: Server is starting...
+[ 05-28-2022 17:05:56 ] Johnson: Request received - AT Clark +32317928.293234825 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:05:56 ] Johnson: Initialize new client's location
+[ 05-28-2022 17:05:56 ] Johnson: Connected to Bernard
+[ 05-28-2022 17:05:56 ] Johnson: Updating kiwi.cs.ucla.edu's location to server Bernard
+[ 05-28-2022 17:05:56 ] Johnson: Bernard - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32317928.293234825', 'Clark']}
+[ 05-28-2022 17:05:56 ] Johnson: Connection Dropped with Bernard
+[ 05-28-2022 17:05:56 ] Johnson: Request received - AT Clark +32317928.293234825 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:05:56 ] Johnson: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 17:05:56 ] Johnson: Connected to Juzang
+[ 05-28-2022 17:05:56 ] Johnson: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 17:05:56 ] Johnson: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32317928.293234825', 'Clark']}
+[ 05-28-2022 17:05:56 ] Johnson: Connection Dropped with Juzang
+[ 05-28-2022 17:09:08 ] Johnson: Server is shutting down...
+[ 05-28-2022 17:09:12 ] Johnson: Server is starting...
+[ 05-28-2022 17:09:18 ] Johnson: Request received - AT Clark +32318130.182563066 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:09:18 ] Johnson: Initialize new client's location
+[ 05-28-2022 17:09:18 ] Johnson: Request received - AT Clark +32318130.182563066 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:09:18 ] Johnson: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 17:09:18 ] Johnson: Connected to Bernard
+[ 05-28-2022 17:09:18 ] Johnson: Updating kiwi.cs.ucla.edu's location to server Bernard
+[ 05-28-2022 17:09:18 ] Johnson: Bernard - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32318130.182563066', 'Clark']}
+[ 05-28-2022 17:09:18 ] Johnson: Connection Dropped with Bernard
+[ 05-28-2022 17:09:18 ] Johnson: Connected to Juzang
+[ 05-28-2022 17:09:18 ] Johnson: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 17:09:18 ] Johnson: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32318130.182563066', 'Clark']}
+[ 05-28-2022 17:09:18 ] Johnson: Connection Dropped with Juzang
+[ 05-28-2022 17:11:20 ] Johnson: Server is shutting down...
+[ 05-28-2022 17:13:30 ] Johnson: Server is starting...
+[ 05-28-2022 17:13:31 ] Johnson: Server is shutting down...
+[ 05-28-2022 17:13:34 ] Johnson: Server is starting...
+[ 05-29-2022 17:59:50 ] Johnson: Server is starting...
+[ 05-29-2022 18:00:46 ] Johnson: Server is shutting down...
+[ 05-29-2022 18:00:53 ] Johnson: Server is starting...
+[ 05-29-2022 18:01:16 ] Johnson: Request received - AT Bernard +32407648.073361874 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-29-2022 18:01:16 ] Johnson: Initialize new client's location
+[ 05-29-2022 18:01:16 ] Johnson: Connected to Bernard
+[ 05-29-2022 18:01:16 ] Johnson: Updating kiwi.cs.ucla.edu's location to server Bernard
+[ 05-29-2022 18:01:16 ] Johnson: Bernard - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32407648.073361874', 'Bernard']}
+[ 05-29-2022 18:01:16 ] Johnson: Connection Dropped with Bernard
+[ 05-29-2022 18:01:16 ] Johnson: Connected to Juzang
+[ 05-29-2022 18:01:16 ] Johnson: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-29-2022 18:01:16 ] Johnson: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32407648.073361874', 'Bernard']}
+[ 05-29-2022 18:01:16 ] Johnson: Connection Dropped with Juzang
+[ 05-29-2022 18:01:16 ] Johnson: Request received - AT Bernard +32407648.073361874 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-29-2022 18:01:16 ] Johnson: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-29-2022 18:10:11 ] Johnson: Server is shutting down...
+[ 05-29-2022 18:10:13 ] Johnson: Server is starting...
+[ 05-29-2022 18:10:20 ] Johnson: Server is shutting down...
+[ 05-29-2022 18:10:22 ] Johnson: Server is starting...
+[ 05-29-2022 18:10:29 ] Johnson: Request received - AT Bernard +32408201.550885677 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-29-2022 18:10:29 ] Johnson: Initialize new client's location
+[ 05-29-2022 18:10:29 ] Johnson: Connected to Bernard
+[ 05-29-2022 18:10:29 ] Johnson: Updating kiwi.cs.ucla.edu's location to server Bernard
+[ 05-29-2022 18:10:29 ] Johnson: Bernard - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32408201.550885677', 'Bernard']}
+[ 05-29-2022 18:10:29 ] Johnson: Connection Dropped with Bernard
+[ 05-29-2022 18:10:29 ] Johnson: Connected to Juzang
+[ 05-29-2022 18:10:29 ] Johnson: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-29-2022 18:10:29 ] Johnson: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32408201.550885677', 'Bernard']}
+[ 05-29-2022 18:10:29 ] Johnson: Connection Dropped with Juzang
+[ 05-29-2022 18:10:29 ] Johnson: Request received - AT Bernard +32408201.550885677 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-29-2022 18:10:29 ] Johnson: kiwi.cs.ucla.edu's location is up-to-date

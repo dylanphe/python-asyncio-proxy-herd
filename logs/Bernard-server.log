@@ -1,0 +1,474 @@
+[ 05-28-2022 16:24:24 ] Bernard: Server is starting...
+[ 05-28-2022 16:24:28 ] Bernard: Request received - IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:24:28 ] Bernard: Response sent - AT Bernard +32315440.651426315 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:24:28 ] Bernard: Connected to Jaquez
+[ 05-28-2022 16:24:28 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Jaquez
+[ 05-28-2022 16:24:28 ] Bernard: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32315440.651426315', 'Bernard']}
+[ 05-28-2022 16:24:28 ] Bernard: Connection Dropped with Jaquez
+[ 05-28-2022 16:24:28 ] Bernard: Connected to Johnson
+[ 05-28-2022 16:24:28 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Johnson
+[ 05-28-2022 16:24:28 ] Bernard: Johnson - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32315440.651426315', 'Bernard']}
+[ 05-28-2022 16:24:28 ] Bernard: Connection Dropped with Johnson
+[ 05-28-2022 16:24:28 ] Bernard: Connected to Juzang
+[ 05-28-2022 16:24:28 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 16:24:28 ] Bernard: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32315440.651426315', 'Bernard']}
+[ 05-28-2022 16:24:28 ] Bernard: Connection Dropped with Juzang
+[ 05-28-2022 16:24:28 ] Bernard: Request received - AT Bernard +32315440.651426315 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:24:28 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 16:24:28 ] Bernard: Request received - AT Bernard +32315440.651426315 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:24:28 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 16:24:28 ] Bernard: Request received - AT Bernard +32315440.651426315 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:24:28 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 16:26:19 ] Bernard: Request received - WHATSAT kiwi.cs.ucla.edu 10 5
+[ 05-28-2022 16:26:19 ] Bernard: Querying Google Places For Nearby Locations
+[ 05-28-2022 16:26:19 ] Bernard: Response sent - AT Bernard +32315440.651426315 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uECBNvw0dcudnfPp9LHUTrovDkJF7h8awEMnfd6G8u27gT1ZvxF47P5M9NqMEMDfoGl3CWAiQkNGc1oVD6oGQmiZ8aSoZOdgz1wa70-xpK2ahFTsiOFgJSVXoR2R6VRcTHPvj7IYYNm-6p47-BHjTncmBfSCBBGc44ZOLfj7PGuouoRPCB3XDiUho8bjOxdy8urIbbpoyUOe8RtO4b7Ezg7j2zutOr6J1QgjCe8KsGkqFQa2UDlNCtXivBdDyPryPnXzGlg2QeYq5O_7WVvaIcuFWER1IC9JElOmaPaiB-lrIRP0Q_x8q18v52gedNFLkF2M6lCt6IArhFN-I1kEs3EF8RMyUQ6i4b0TMMh_wHzn7rEcQ4MU4BNrNjmLXhqFZylvDYnL7qvvOLag0mhnKiouUojsKutcqTj7a3VlTF3o",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.33730608759191,
+                        "lng": -118.155289077463
+                    },
+                    "southwest": {
+                        "lat": 33.70365193147634,
+                        "lng": -118.6681759484859
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 746,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108862076113400282635\">AROUND THE WORLD</a>"
+                    ],
+                    "photo_reference": "Aap_uEBt2aXibMo22YVjdTVV1F1RWir8pvt_DhGrpeD8kxEyPJGea6YJA_3BojoJhasiaQTLxSh-erBBBlteSt6jDn5CUyDeKlAaHL9sJHvo10zk7eDmabEy0jbsHvhGd7i9rW1moUWssWFbKdKJjlzkcbwlPTM0tZ7b_8sd6MqKBL6DSjAW",
+                    "width": 1079
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0632746,
+                    "lng": -118.4409504
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0646108802915,
+                        "lng": -118.4398087197085
+                    },
+                    "southwest": {
+                        "lat": 34.0619129197085,
+                        "lng": -118.4425066802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "W Los Angeles - West Beverly Hills",
+            "photos": [
+                {
+                    "height": 810,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112226443518685790919\">W Los Angeles - West Beverly Hills</a>"
+                    ],
+                    "photo_reference": "Aap_uECKBn6OeUhCu5wXUpfL1Vm5T2evyOWa7Q4RrxjE1Q7NhbIxmSyG_Pghv20X6JooLCowJVTaekhNuw_pu5rFOT9gt6Za6S6nFel7oEVInibFB8MJi4gnVd5u2VhqdHMyDIh6mIMXYn9_wFOmR6z139-w1hU2pVA7xa97FxZlZk-AJ_9q",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+            "plus_code": {
+                "compound_code": "3H75+8J Los Angeles, CA, USA",
+                "global_code": "85633H75+8J"
+            },
+            "rating": 4.2,
+            "reference": "ChIJffYelYC8woARkChY4cQOzUM",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1163,
+            "vicinity": "930 Hilgard Avenue, Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0606386,
+                    "lng": -118.4429771
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0620311302915,
+                        "lng": -118.4417359197085
+                    },
+                    "southwest": {
+                        "lat": 34.0593331697085,
+                        "lng": -118.4444338802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Royal Palace Westwood Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107513054366925301603\">Jose Solorio Gonzalez</a>"
+                    ],
+                    "photo_reference": "Aap_uEDepCbDYdL7I81-TryPFuIFy9YFuK1h7J41JOVuqx-8aT2D7u0BJQcvr5lV7r8uSPs5SCRJBiS9sz2ACOxWlOq_RgEul1mnBPJy7ixVKiJDdAKFpKYhCBMnC1YJ5vdMsRBNidc6egcK8TEZnKTb2JaWNC4aV_GSWBtVk5L9bJkRaZcZ",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+            "plus_code": {
+                "compound_code": "3H64+7R Los Angeles, CA, USA",
+                "global_code": "85633H64+7R"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ36i1toG8woARHcjs6P2eCkU",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 271,
+            "vicinity": "1052 Tiverton Avenue, Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0677273,
+                    "lng": -118.426036
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.06895858029149,
+                        "lng": -118.4244877697085
+                    },
+                    "southwest": {
+                        "lat": 34.0662606197085,
+                        "lng": -118.4271857302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Beverly Hills Plaza Hotel & Spa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113734743894785553135\">Ksenia Busheva</a>"
+                    ],
+                    "photo_reference": "Aap_uEAy_nCpMjQleR8KrWMruvJop0bIKssoo180v6yg2sEnXUMcku6auMFx_pz4PmreXv-HOvIyme6PcaJrA_MQiZlV3CY4BGNcaR58I0lwfB47B5Li_Ua9K9TzdFrtWswBPni5PyEcHuKoCDGzRtfbNpJKwHCGmJJjZExRKvGxclztVY0O",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+            "plus_code": {
+                "compound_code": "3H9F+3H Los Angeles, CA, USA",
+                "global_code": "85633H9F+3H"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 396,
+            "vicinity": "10300 Wilshire Boulevard, Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0737527,
+                    "lng": -118.4682129
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.07501653029149,
+                        "lng": -118.4668231197085
+                    },
+                    "southwest": {
+                        "lat": 34.0723185697085,
+                        "lng": -118.4695210802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Angeleno",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4013,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109137024387790382898\">Hotel Angeleno</a>"
+                    ],
+                    "photo_reference": "Aap_uEDzW97XkaKJeQPNH4X5eBBm32MEsBep64W4Ao9UD2fuZ89xkitx0EppCwRG13HpnDaqPonW1gKv0hPe-EQwsx7fK1cvXrXZq1Rr7w1RXa0V-yROdwGNSCnw6CWuAc-skCIOjJld2h-lwxTqvHZU0IlpQQZt35WC9rPIFaNxNluJN8Ac",
+                    "width": 5375
+                }
+            ],
+            "place_id": "ChIJt37HtsC8woARLi6S2eMbe_o",
+            "plus_code": {
+                "compound_code": "3GFJ+GP Los Angeles, CA, USA",
+                "global_code": "85633GFJ+GP"
+            },
+            "rating": 4,
+            "reference": "ChIJt37HtsC8woARLi6S2eMbe_o",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1560,
+            "vicinity": "170 North Church Lane, Los Angeles"
+        }
+    ],
+    "status": "OK"
+}
+[ 05-28-2022 16:26:35 ] Bernard: Request received - AT Clark +0.263873386 kiwi.cs.ucla.edu +34.068930-118.445127 973498694314.984
+[ 05-28-2022 16:26:35 ] Bernard: Updating existing client's location
+[ 05-28-2022 16:26:35 ] Bernard: Connected to Jaquez
+[ 05-28-2022 16:26:35 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Jaquez
+[ 05-28-2022 16:26:35 ] Bernard: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 973498694314.984, '+0.263873386', 'Clark']}
+[ 05-28-2022 16:26:35 ] Bernard: Connection Dropped with Jaquez
+[ 05-28-2022 16:26:35 ] Bernard: Connected to Johnson
+[ 05-28-2022 16:26:35 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Johnson
+[ 05-28-2022 16:26:35 ] Bernard: Johnson - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 973498694314.984, '+0.263873386', 'Clark']}
+[ 05-28-2022 16:26:35 ] Bernard: Connection Dropped with Johnson
+[ 05-28-2022 16:26:35 ] Bernard: Connected to Juzang
+[ 05-28-2022 16:26:35 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 16:26:35 ] Bernard: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 973498694314.984, '+0.263873386', 'Clark']}
+[ 05-28-2022 16:26:35 ] Bernard: Connection Dropped with Juzang
+[ 05-28-2022 16:26:35 ] Bernard: Request received - AT Clark +0.263873386 kiwi.cs.ucla.edu +34.068930-118.445127 973498694314.984
+[ 05-28-2022 16:26:35 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 16:26:35 ] Bernard: Request received - AT Clark +0.263873386 kiwi.cs.ucla.edu +34.068930-118.445127 973498694314.984
+[ 05-28-2022 16:26:35 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 16:26:35 ] Bernard: Request received - AT Clark +0.263873386 kiwi.cs.ucla.edu +34.068930-118.445127 973498694314.984
+[ 05-28-2022 16:26:35 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 16:30:17 ] Bernard: Request received - AT Clark +6.526598215103149 dylan +33.7913666-118.1346701 1653780611
+[ 05-28-2022 16:30:17 ] Bernard: Initialize new client's location
+[ 05-28-2022 16:30:17 ] Bernard: Connected to Jaquez
+[ 05-28-2022 16:30:17 ] Bernard: Updating dylan's location to server Jaquez
+[ 05-28-2022 16:30:17 ] Bernard: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 973498694314.984, '+0.263873386', 'Clark'], 'dylan': ['+33.7913666-118.1346701', 1653780611.0, '+6.526598215103149', 'Clark']}
+[ 05-28-2022 16:30:17 ] Bernard: Connection Dropped with Jaquez
+[ 05-28-2022 16:30:17 ] Bernard: Request received - AT Clark +6.526598215103149 dylan +33.7913666-118.1346701 1653780611
+[ 05-28-2022 16:30:17 ] Bernard: dylan's location is up-to-date
+[ 05-28-2022 16:30:17 ] Bernard: Error occured during connection to Johnson
+[ 05-28-2022 16:30:17 ] Bernard: Connected to Juzang
+[ 05-28-2022 16:30:17 ] Bernard: Updating dylan's location to server Juzang
+[ 05-28-2022 16:30:17 ] Bernard: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 973498694314.984, '+0.263873386', 'Clark'], 'dylan': ['+33.7913666-118.1346701', 1653780611.0, '+6.526598215103149', 'Clark']}
+[ 05-28-2022 16:30:17 ] Bernard: Connection Dropped with Juzang
+[ 05-28-2022 16:46:34 ] Bernard: Server is starting...
+[ 05-28-2022 16:46:48 ] Bernard: Request received - IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:46:48 ] Bernard: Response sent - AT Bernard +32316780.688699007 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:46:48 ] Bernard: Connected to Jaquez
+[ 05-28-2022 16:46:48 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Jaquez
+[ 05-28-2022 16:46:48 ] Bernard: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32316780.688699007', 'Bernard']}
+[ 05-28-2022 16:46:48 ] Bernard: Connection Dropped with Jaquez
+[ 05-28-2022 16:46:48 ] Bernard: Connected to Johnson
+[ 05-28-2022 16:46:48 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Johnson
+[ 05-28-2022 16:46:48 ] Bernard: Johnson - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32316780.688699007', 'Bernard']}
+[ 05-28-2022 16:46:48 ] Bernard: Connection Dropped with Johnson
+[ 05-28-2022 16:46:48 ] Bernard: Connected to Juzang
+[ 05-28-2022 16:46:48 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 16:46:48 ] Bernard: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32316780.688699007', 'Bernard']}
+[ 05-28-2022 16:46:48 ] Bernard: Connection Dropped with Juzang
+[ 05-28-2022 16:47:50 ] Bernard: Server is starting...
+[ 05-28-2022 16:47:54 ] Bernard: Request received - IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:47:54 ] Bernard: Response sent - AT Bernard +32316846.825517893 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:47:54 ] Bernard: Connected to Jaquez
+[ 05-28-2022 16:47:54 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Jaquez
+[ 05-28-2022 16:47:54 ] Bernard: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32316846.825517893', 'Bernard']}
+[ 05-28-2022 16:47:54 ] Bernard: Connection Dropped with Jaquez
+[ 05-28-2022 16:47:54 ] Bernard: Connected to Johnson
+[ 05-28-2022 16:47:54 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Johnson
+[ 05-28-2022 16:47:54 ] Bernard: Johnson - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32316846.825517893', 'Bernard']}
+[ 05-28-2022 16:47:54 ] Bernard: Connection Dropped with Johnson
+[ 05-28-2022 16:47:54 ] Bernard: Connected to Juzang
+[ 05-28-2022 16:47:54 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 16:47:54 ] Bernard: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32316846.825517893', 'Bernard']}
+[ 05-28-2022 16:47:54 ] Bernard: Connection Dropped with Juzang
+[ 05-28-2022 16:47:54 ] Bernard: Request received - AT Bernard +32316846.825517893 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:47:54 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 16:47:54 ] Bernard: Request received - AT Bernard +32316846.825517893 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:47:54 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 16:47:54 ] Bernard: Request received - AT Bernard +32316846.825517893 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 16:47:54 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 16:49:04 ] Bernard: Request received - WHATSAT kiwi.cs.ucla.edu 10 5
+[ 05-28-2022 16:49:04 ] Bernard: Querying Google Places For Nearby Locations
+[ 05-28-2022 16:49:04 ] Bernard: Response sent - AT Bernard +32316846.825517893 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+{
+    "error_message": "The provided API key is invalid.",
+    "html_attributions": [],
+    "results": [],
+    "status": "REQUEST_DENIED"
+}
+[ 05-28-2022 16:52:44 ] Bernard: Server is starting...
+[ 05-28-2022 16:56:41 ] Bernard: Server is starting...
+[ 05-28-2022 17:01:21 ] Bernard: Request received - AT Clark +32317653.74943304 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:01:21 ] Bernard: Initialize new client's location
+[ 05-28-2022 17:01:21 ] Bernard: Request received - AT Clark +32317653.74943304 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:01:21 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 17:01:21 ] Bernard: Connected to Jaquez
+[ 05-28-2022 17:01:21 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Jaquez
+[ 05-28-2022 17:01:21 ] Bernard: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32317653.74943304', 'Clark']}
+[ 05-28-2022 17:01:21 ] Bernard: Connection Dropped with Jaquez
+[ 05-28-2022 17:01:21 ] Bernard: Connected to Johnson
+[ 05-28-2022 17:01:21 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Johnson
+[ 05-28-2022 17:01:21 ] Bernard: Johnson - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32317653.74943304', 'Clark']}
+[ 05-28-2022 17:01:21 ] Bernard: Connection Dropped with Johnson
+[ 05-28-2022 17:01:21 ] Bernard: Connected to Juzang
+[ 05-28-2022 17:01:21 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 17:01:21 ] Bernard: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32317653.74943304', 'Clark']}
+[ 05-28-2022 17:01:21 ] Bernard: Connection Dropped with Juzang
+[ 05-28-2022 17:01:21 ] Bernard: Request received - AT Clark +32317653.74943304 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:01:21 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 17:02:31 ] Bernard: Server is starting...
+[ 05-28-2022 17:02:38 ] Bernard: Request received - AT Clark +32317730.609581947 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:02:38 ] Bernard: Initialize new client's location
+[ 05-28-2022 17:02:38 ] Bernard: Request received - AT Clark +32317730.609581947 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:02:38 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 17:02:38 ] Bernard: Connected to Jaquez
+[ 05-28-2022 17:02:38 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Jaquez
+[ 05-28-2022 17:02:38 ] Bernard: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32317730.609581947', 'Clark']}
+[ 05-28-2022 17:02:38 ] Bernard: Connection Dropped with Jaquez
+[ 05-28-2022 17:02:38 ] Bernard: Connected to Johnson
+[ 05-28-2022 17:02:38 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Johnson
+[ 05-28-2022 17:02:38 ] Bernard: Johnson - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32317730.609581947', 'Clark']}
+[ 05-28-2022 17:02:38 ] Bernard: Connection Dropped with Johnson
+[ 05-28-2022 17:02:38 ] Bernard: Connected to Juzang
+[ 05-28-2022 17:02:38 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 17:02:38 ] Bernard: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32317730.609581947', 'Clark']}
+[ 05-28-2022 17:02:38 ] Bernard: Connection Dropped with Juzang
+[ 05-28-2022 17:02:38 ] Bernard: Request received - AT Clark +32317730.609581947 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:02:38 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 17:05:45 ] Bernard: Server is starting...
+[ 05-28-2022 17:05:49 ] Bernard: Server is starting...
+[ 05-28-2022 17:05:56 ] Bernard: Request received - AT Clark +32317928.293234825 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:05:56 ] Bernard: Initialize new client's location
+[ 05-28-2022 17:05:56 ] Bernard: Request received - AT Clark +32317928.293234825 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:05:56 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 17:05:56 ] Bernard: Connected to Jaquez
+[ 05-28-2022 17:05:56 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Jaquez
+[ 05-28-2022 17:05:56 ] Bernard: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32317928.293234825', 'Clark']}
+[ 05-28-2022 17:05:56 ] Bernard: Connection Dropped with Jaquez
+[ 05-28-2022 17:05:56 ] Bernard: Connected to Johnson
+[ 05-28-2022 17:05:56 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Johnson
+[ 05-28-2022 17:05:56 ] Bernard: Johnson - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32317928.293234825', 'Clark']}
+[ 05-28-2022 17:05:56 ] Bernard: Connection Dropped with Johnson
+[ 05-28-2022 17:05:56 ] Bernard: Connected to Juzang
+[ 05-28-2022 17:05:56 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 17:05:56 ] Bernard: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32317928.293234825', 'Clark']}
+[ 05-28-2022 17:05:56 ] Bernard: Connection Dropped with Juzang
+[ 05-28-2022 17:05:56 ] Bernard: Request received - AT Clark +32317928.293234825 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:05:56 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 17:09:12 ] Bernard: Server is starting...
+[ 05-28-2022 17:09:18 ] Bernard: Request received - AT Clark +32318130.182563066 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:09:18 ] Bernard: Initialize new client's location
+[ 05-28-2022 17:09:18 ] Bernard: Connected to Jaquez
+[ 05-28-2022 17:09:18 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Jaquez
+[ 05-28-2022 17:09:18 ] Bernard: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32318130.182563066', 'Clark']}
+[ 05-28-2022 17:09:18 ] Bernard: Connection Dropped with Jaquez
+[ 05-28-2022 17:09:18 ] Bernard: Request received - AT Clark +32318130.182563066 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:09:18 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 17:09:18 ] Bernard: Connected to Johnson
+[ 05-28-2022 17:09:18 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Johnson
+[ 05-28-2022 17:09:18 ] Bernard: Johnson - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32318130.182563066', 'Clark']}
+[ 05-28-2022 17:09:18 ] Bernard: Connection Dropped with Johnson
+[ 05-28-2022 17:09:18 ] Bernard: Connected to Juzang
+[ 05-28-2022 17:09:18 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-28-2022 17:09:18 ] Bernard: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', 1621464827.9594984, '+32318130.182563066', 'Clark']}
+[ 05-28-2022 17:09:18 ] Bernard: Connection Dropped with Juzang
+[ 05-28-2022 17:09:18 ] Bernard: Request received - AT Clark +32318130.182563066 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-28-2022 17:09:18 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-28-2022 17:13:30 ] Bernard: Server is starting...
+[ 05-28-2022 17:13:34 ] Bernard: Server is starting...
+[ 05-29-2022 17:59:50 ] Bernard: Server is starting...
+[ 05-29-2022 18:00:53 ] Bernard: Server is starting...
+[ 05-29-2022 18:01:16 ] Bernard: Request received - IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-29-2022 18:01:16 ] Bernard: Response sent - AT Bernard +32407648.073361874 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-29-2022 18:01:16 ] Bernard: Connected to Jaquez
+[ 05-29-2022 18:01:16 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Jaquez
+[ 05-29-2022 18:01:16 ] Bernard: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32407648.073361874', 'Bernard']}
+[ 05-29-2022 18:01:16 ] Bernard: Connection Dropped with Jaquez
+[ 05-29-2022 18:01:16 ] Bernard: Connected to Johnson
+[ 05-29-2022 18:01:16 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Johnson
+[ 05-29-2022 18:01:16 ] Bernard: Johnson - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32407648.073361874', 'Bernard']}
+[ 05-29-2022 18:01:16 ] Bernard: Connection Dropped with Johnson
+[ 05-29-2022 18:01:16 ] Bernard: Connected to Juzang
+[ 05-29-2022 18:01:16 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-29-2022 18:01:16 ] Bernard: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32407648.073361874', 'Bernard']}
+[ 05-29-2022 18:01:16 ] Bernard: Connection Dropped with Juzang
+[ 05-29-2022 18:01:16 ] Bernard: Request received - AT Bernard +32407648.073361874 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-29-2022 18:01:16 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-29-2022 18:01:16 ] Bernard: Request received - AT Bernard +32407648.073361874 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-29-2022 18:01:16 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-29-2022 18:01:16 ] Bernard: Request received - AT Bernard +32407648.073361874 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-29-2022 18:01:16 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-29-2022 18:10:13 ] Bernard: Server is starting...
+[ 05-29-2022 18:10:22 ] Bernard: Server is starting...
+[ 05-29-2022 18:10:29 ] Bernard: Request received - IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-29-2022 18:10:29 ] Bernard: Response sent - AT Bernard +32408201.550885677 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-29-2022 18:10:29 ] Bernard: Connected to Jaquez
+[ 05-29-2022 18:10:29 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Jaquez
+[ 05-29-2022 18:10:29 ] Bernard: Jaquez - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32408201.550885677', 'Bernard']}
+[ 05-29-2022 18:10:29 ] Bernard: Connection Dropped with Jaquez
+[ 05-29-2022 18:10:29 ] Bernard: Connected to Johnson
+[ 05-29-2022 18:10:29 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Johnson
+[ 05-29-2022 18:10:29 ] Bernard: Johnson - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32408201.550885677', 'Bernard']}
+[ 05-29-2022 18:10:29 ] Bernard: Connection Dropped with Johnson
+[ 05-29-2022 18:10:29 ] Bernard: Connected to Juzang
+[ 05-29-2022 18:10:29 ] Bernard: Updating kiwi.cs.ucla.edu's location to server Juzang
+[ 05-29-2022 18:10:29 ] Bernard: Juzang - {'kiwi.cs.ucla.edu': ['+34.068930-118.445127', '1621464827.959498503', '+32408201.550885677', 'Bernard']}
+[ 05-29-2022 18:10:29 ] Bernard: Connection Dropped with Juzang
+[ 05-29-2022 18:10:29 ] Bernard: Request received - AT Bernard +32408201.550885677 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-29-2022 18:10:29 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-29-2022 18:10:29 ] Bernard: Request received - AT Bernard +32408201.550885677 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-29-2022 18:10:29 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
+[ 05-29-2022 18:10:29 ] Bernard: Request received - AT Bernard +32408201.550885677 kiwi.cs.ucla.edu +34.068930-118.445127 1621464827.959498503
+[ 05-29-2022 18:10:29 ] Bernard: kiwi.cs.ucla.edu's location is up-to-date
